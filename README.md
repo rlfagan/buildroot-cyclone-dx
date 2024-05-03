@@ -58,5 +58,5 @@ Sample Data can be found here
 
 [SAMPLE CYCLONEDX File](https://github.com/rlfagan/buildroot-cyclone-dx/blob/main/buildroot.json)
 
-[![Alt text](/import.png)](https://app.fossa.com/projects/import/upload/sbom)
+
 
