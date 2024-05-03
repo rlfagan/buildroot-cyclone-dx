@@ -48,5 +48,7 @@ python3 generateBuildrootSBOM.py -i manifest.csv -n "My Project" -v "1.2.3.4" -m
 ```
 Step 4: Importing the SBOM
 
-Browse to the [SBOM upload screen](https://app.fossa.com/projects/import/upload/sbom) and select the buildroot.json file created from the clyclonedx plugin
+Browse to the [SBOM upload screen](https://app.fossa.com/projects/import/upload/sbom) and select the buildroot.json file created from the clyclonedx plugin 
+
+[![Alt text](/import.png)](https://app.fossa.com/projects/import/upload/sbom)
 
