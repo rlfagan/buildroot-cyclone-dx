@@ -50,5 +50,13 @@ Step 4: Importing the SBOM
 
 Browse to the [SBOM upload screen](https://app.fossa.com/projects/import/upload/sbom) and select the buildroot.json file created from the clyclonedx plugin 
 
+Sample Data can be found here 
+
+[Sample Manaifest File ](https://github.com/rlfagan/buildroot-cyclone-dx/blob/main/manifest.csv)
+
+[SAMPLE CPE FILE](https://github.com/rlfagan/buildroot-cyclone-dx/blob/main/cpe.json)
+
+[SAMPLE CYCLONEDX File](https://github.com/rlfagan/buildroot-cyclone-dx/blob/main/buildroot.json)
+
 [![Alt text](/import.png)](https://app.fossa.com/projects/import/upload/sbom)
 
