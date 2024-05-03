@@ -1,0 +1,1962 @@
+{
+   "components": [
+      {
+         "bom-ref": "adaptive_ww-binaries",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.1"
+               }
+            }
+         ],
+         "name": "adaptive_ww-binaries",
+         "purl": "pkg:generic/adaptive_ww-binaries@9.32.0.13?download_url=https://github.com/LairdCP/wb-package-archive/releases/download/LRD-REL-9.32.0.13/adaptive_ww-arm-eabihf-9.32.0.13.tar.bz2",
+         "type": "firmware",
+         "version": "9.32.0.13"
+      },
+      {
+         "bom-ref": "attr",
+         "cpe": "cpe:2.3:a:attr_project:attr:2.5.2:*:*:*:*:*:*:*",
+         "licenses": [
+            {
+               "license": {
+                  "name": " LGPL-2.1+ (libraries)"
+               }
+            },
+            {
+               "license": {
+                  "name": "GPL-2.0+ (programs)"
+               }
+            }
+         ],
+         "name": "attr",
+         "purl": "pkg:generic/attr@2.4.48?download_url=http://download.savannah.gnu.org/releases/attr/attr-2.4.48.tar.gz",
+         "type": "firmware",
+         "version": "2.4.48"
+      },
+      {
+         "bom-ref": "binaryheaderfile",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "unknown"
+               }
+            }
+         ],
+         "name": "binaryheaderfile",
+         "purl": "pkg:generic/binaryheaderfile@V0.7.0?download_url=ssh://git.bbraun.io/citcom/BinaryHeaderFile.git/binaryheaderfile-V0.7.0.tar.gz",
+         "type": "firmware",
+         "version": "V0.7.0"
+      },
+      {
+         "bom-ref": "boost",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "BSL-1.0"
+               }
+            }
+         ],
+         "name": "boost",
+         "purl": "pkg:generic/boost@1.69.0?download_url=http://downloads.sourceforge.net/project/boost/boost/1.69.0/boost_1_69_0.tar.bz2",
+         "type": "firmware",
+         "version": "1.69.0"
+      },
+      {
+         "bom-ref": "busybox",
+         "cpe": "cpe:2.3:a:busybox:busybox:1.36.1:*:*:*:*:*:*:*",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0"
+               }
+            }
+         ],
+         "name": "busybox",
+         "purl": "pkg:generic/busybox@1.29.3?download_url=http://www.busybox.net/downloads/busybox-1.29.3.tar.bz2",
+         "type": "firmware",
+         "version": "1.29.3"
+      },
+      {
+         "bom-ref": "ca-certificates",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": " MPL-2.0 (data)"
+               }
+            },
+            {
+               "license": {
+                  "name": "GPL-2.0+ (script)"
+               }
+            }
+         ],
+         "name": "ca-certificates",
+         "purl": "pkg:generic/ca-certificates@20200601?download_url=http://snapshot.debian.org/archive/debian/20200602T145955Z/pool/main/c/ca-certificates/ca-certificates_20200601.tar.xz",
+         "type": "firmware",
+         "version": "20200601"
+      },
+      {
+         "bom-ref": "can-utils",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": " GPL-2.0+"
+               }
+            },
+            {
+               "license": {
+                  "name": "BSD-3-Clause or GPL-2.0"
+               }
+            }
+         ],
+         "name": "can-utils",
+         "purl": "pkg:generic/can-utils@v2018.02.0?download_url=https://github.com/linux-can/can-utils/archive/v2018.02.0/can-utils-v2018.02.0.tar.gz",
+         "type": "firmware",
+         "version": "v2018.02.0"
+      },
+      {
+         "bom-ref": "chrony",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0"
+               }
+            }
+         ],
+         "name": "chrony",
+         "purl": "pkg:generic/chrony@3.5.1?download_url=http://download.tuxfamily.org/chrony/chrony-3.5.1.tar.gz",
+         "type": "firmware",
+         "version": "3.5.1"
+      },
+      {
+         "bom-ref": "comdeviceapps",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "unknown"
+               }
+            }
+         ],
+         "name": "comdeviceapps",
+         "purl": "pkg:generic/comdeviceapps@054U000092-rev-1882?download_url=ssh://git.bbraun.io/citcom/comdeviceapps.git/comdeviceapps-054U000092-rev-1882.tar.gz",
+         "type": "firmware",
+         "version": "054U000092-rev-1882"
+      },
+      {
+         "bom-ref": "conntrack-tools",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            }
+         ],
+         "name": "conntrack-tools",
+         "purl": "pkg:generic/conntrack-tools@1.4.5?download_url=http://www.netfilter.org/projects/conntrack-tools/files/conntrack-tools-1.4.5.tar.bz2",
+         "type": "firmware",
+         "version": "1.4.5"
+      },
+      {
+         "bom-ref": "cryptodev-linux",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            }
+         ],
+         "name": "cryptodev-linux",
+         "purl": "pkg:generic/cryptodev-linux@f60aa08c63fc02780554a0a12180a478ca27d49f?download_url=https://github.com/cryptodev-linux/cryptodev-linux/archive/f60aa08c63fc02780554a0a12180a478ca27d49f/cryptodev-linux-f60aa08c63fc02780554a0a12180a478ca27d49f.tar.gz",
+         "type": "firmware",
+         "version": "f60aa08c63fc02780554a0a12180a478ca27d49f"
+      },
+      {
+         "bom-ref": "dbus",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": " GPL-2.0+ (tools)"
+               }
+            },
+            {
+               "license": {
+                  "name": " tools)"
+               }
+            },
+            {
+               "license": {
+                  "name": "AFL-2.1 or GPL-2.0+ (library"
+               }
+            }
+         ],
+         "name": "dbus",
+         "purl": "pkg:generic/dbus@1.12.20?download_url=https://dbus.freedesktop.org/releases/dbus/dbus-1.12.20.tar.gz",
+         "type": "firmware",
+         "version": "1.12.20"
+      },
+      {
+         "bom-ref": "dbus-glib",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "AFL-2.1 or GPL-2.0+"
+               }
+            }
+         ],
+         "name": "dbus-glib",
+         "purl": "pkg:generic/dbus-glib@0.11?download_url=http://dbus.freedesktop.org/releases/dbus-glib/dbus-glib-0.110.tar.gz",
+         "type": "firmware",
+         "version": "0.11"
+      },
+      {
+         "bom-ref": "dbus-python",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "MIT"
+               }
+            }
+         ],
+         "name": "dbus-python",
+         "purl": "pkg:generic/dbus-python@1.2.8?download_url=http://dbus.freedesktop.org/releases/dbus-python/dbus-python-1.2.8.tar.gz",
+         "type": "firmware",
+         "version": "1.2.8"
+      },
+      {
+         "bom-ref": "dnsmasq",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "GPL-2.0 or GPL-3.0"
+               }
+            }
+         ],
+         "name": "dnsmasq",
+         "purl": "pkg:generic/dnsmasq@2.84?download_url=http://thekelleys.org.uk/dnsmasq/dnsmasq-2.84.tar.xz",
+         "type": "firmware",
+         "version": "2.84"
+      },
+      {
+         "bom-ref": "dropbear",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "MIT"
+               }
+            },
+            {
+               "license": {
+                  "name": " BSD-2-Clause"
+               }
+            },
+            {
+               "license": {
+                  "name": " BSD-3-Clause"
+               }
+            }
+         ],
+         "name": "dropbear",
+         "purl": "pkg:generic/dropbear@2018.76?download_url=https://matt.ucc.asn.au/dropbear/releases/dropbear-2018.76.tar.bz2",
+         "type": "firmware",
+         "version": "2018.76"
+      },
+      {
+         "bom-ref": "ethtool",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0"
+               }
+            }
+         ],
+         "name": "ethtool",
+         "purl": "pkg:generic/ethtool@4.19?download_url=https://cdn.kernel.org/pub/software/network/ethtool/ethtool-4.19.tar.xz",
+         "type": "firmware",
+         "version": "4.19"
+      },
+      {
+         "bom-ref": "expat",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "MIT"
+               }
+            }
+         ],
+         "name": "expat",
+         "purl": "pkg:generic/expat@2.2.8?download_url=http://downloads.sourceforge.net/project/expat/expat/2.2.8/expat-2.2.8.tar.xz",
+         "type": "firmware",
+         "version": "2.2.8"
+      },
+      {
+         "bom-ref": "fallback-detection",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "unknown"
+               }
+            }
+         ],
+         "name": "fallback-detection",
+         "purl": "pkg:generic/fallback-detection@V0.3.0?download_url=ssh://git.bbraun.io/citcom/fallback-detection.git/fallback-detection-V0.3.0.tar.gz",
+         "type": "firmware",
+         "version": "V0.3.0"
+      },
+      {
+         "bom-ref": "fscryptctl",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "Apache-2.0"
+               }
+            }
+         ],
+         "name": "fscryptctl",
+         "purl": "pkg:generic/fscryptctl@f037dcf4354ce8f25d0f371b58dfe7a7ac27576f?download_url=https://github.com/google/fscryptctl/archive/f037dcf4354ce8f25d0f371b58dfe7a7ac27576f/fscryptctl-f037dcf4354ce8f25d0f371b58dfe7a7ac27576f.tar.gz",
+         "type": "firmware",
+         "version": "f037dcf4354ce8f25d0f371b58dfe7a7ac27576f"
+      },
+      {
+         "bom-ref": "gmp",
+         "cpe": "cpe:2.3:a:gmplib:gmp:6.3.0:*:*:*:*:*:*:*",
+         "licenses": [
+            {
+               "license": {
+                  "name": "LGPL-3.0+ or GPL-2.0+"
+               }
+            }
+         ],
+         "name": "gmp",
+         "purl": "pkg:generic/gmp@6.1.2?download_url=http://ftpmirror.gnu.org/gmp/gmp-6.1.2.tar.xz",
+         "type": "firmware",
+         "version": "6.1.2"
+      },
+      {
+         "bom-ref": "gnutls",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "LGPL-2.1+ (core library)"
+               }
+            }
+         ],
+         "name": "gnutls",
+         "purl": "pkg:generic/gnutls@3.6.15?download_url=https://www.gnupg.org/ftp/gcrypt/gnutls/v3.6/gnutls-3.6.15.tar.xz",
+         "type": "firmware",
+         "version": "3.6.15"
+      },
+      {
+         "bom-ref": "gobject-introspection",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "Dual LGPLv2+/GPLv2+"
+               }
+            }
+         ],
+         "name": "gobject-introspection",
+         "purl": "pkg:generic/gobject-introspection@1.56.1?download_url=http://ftp.gnome.org/pub/GNOME/sources/gobject-introspection/1.56/gobject-introspection-1.56.1.tar.xz",
+         "type": "firmware",
+         "version": "1.56.1"
+      },
+      {
+         "bom-ref": "iproute2",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            }
+         ],
+         "name": "iproute2",
+         "purl": "pkg:generic/iproute2@5.2.0?download_url=https://cdn.kernel.org/pub/linux/utils/net/iproute2/iproute2-5.2.0.tar.xz",
+         "type": "firmware",
+         "version": "5.2.0"
+      },
+      {
+         "bom-ref": "iptables",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0"
+               }
+            }
+         ],
+         "name": "iptables",
+         "purl": "pkg:generic/iptables@1.8.3?download_url=https://netfilter.org/projects/iptables/files/iptables-1.8.3.tar.bz2",
+         "type": "firmware",
+         "version": "1.8.3"
+      },
+      {
+         "bom-ref": "iw",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "ISC"
+               }
+            }
+         ],
+         "name": "iw",
+         "purl": "pkg:generic/iw@4.14?download_url=https://cdn.kernel.org/pub/software/network/iw/iw-4.14.tar.xz",
+         "type": "firmware",
+         "version": "4.14"
+      },
+      {
+         "bom-ref": "json-c",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "MIT"
+               }
+            }
+         ],
+         "name": "json-c",
+         "purl": "pkg:generic/json-c@0.15?download_url=https://s3.amazonaws.com/json-c_releases/releases/json-c-0.15.tar.gz",
+         "type": "firmware",
+         "version": "0.15"
+      },
+      {
+         "bom-ref": "keyutils",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            },
+            {
+               "license": {
+                  "name": " LGPL-2.1+"
+               }
+            }
+         ],
+         "name": "keyutils",
+         "purl": "pkg:generic/keyutils@1.6?download_url=http://people.redhat.com/~dhowells/keyutils/keyutils-1.6.tar.bz2",
+         "type": "firmware",
+         "version": "1.6"
+      },
+      {
+         "bom-ref": "kmod",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": " GPL-2.0+ (tools)"
+               }
+            },
+            {
+               "license": {
+                  "name": "LGPL-2.1+ (library)"
+               }
+            }
+         ],
+         "name": "kmod",
+         "purl": "pkg:generic/kmod@26?download_url=https://cdn.kernel.org/pub/linux/utils/kernel/kmod/kmod-26.tar.xz",
+         "type": "firmware",
+         "version": "26"
+      },
+      {
+         "bom-ref": "less",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-3.0+"
+               }
+            }
+         ],
+         "name": "less",
+         "purl": "pkg:generic/less@487?download_url=http://ftpmirror.gnu.org/less/less-487.tar.gz",
+         "type": "firmware",
+         "version": "487"
+      },
+      {
+         "bom-ref": "libcap",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "GPL-2.0 or BSD-3-Clause"
+               }
+            }
+         ],
+         "name": "libcap",
+         "purl": "pkg:generic/libcap@2.25?download_url=https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.25.tar.xz",
+         "type": "firmware",
+         "version": "2.25"
+      },
+      {
+         "bom-ref": "libconfig",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.1+"
+               }
+            }
+         ],
+         "name": "libconfig",
+         "purl": "pkg:generic/libconfig@v1.7.2?download_url=https://github.com/hyperrealm/libconfig/archive/v1.7.2/libconfig-v1.7.2.tar.gz",
+         "type": "firmware",
+         "version": "v1.7.2"
+      },
+      {
+         "bom-ref": "libcurl",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "curl"
+               }
+            }
+         ],
+         "name": "libcurl",
+         "purl": "pkg:generic/libcurl@7.74.0?download_url=https://curl.haxx.se/download/curl-7.74.0.tar.xz",
+         "type": "firmware",
+         "version": "7.74.0"
+      },
+      {
+         "bom-ref": "libestr",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.1+"
+               }
+            }
+         ],
+         "name": "libestr",
+         "purl": "pkg:generic/libestr@0.1.10?download_url=http://libestr.adiscon.com/files/download/libestr-0.1.10.tar.gz",
+         "type": "firmware",
+         "version": "0.1.10"
+      },
+      {
+         "bom-ref": "libfastjson",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "MIT"
+               }
+            }
+         ],
+         "name": "libfastjson",
+         "purl": "pkg:generic/libfastjson@v0.99.8?download_url=https://github.com/rsyslog/libfastjson/archive/v0.99.8/libfastjson-v0.99.8.tar.gz",
+         "type": "firmware",
+         "version": "v0.99.8"
+      },
+      {
+         "bom-ref": "libffi",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "MIT"
+               }
+            }
+         ],
+         "name": "libffi",
+         "purl": "pkg:generic/libffi@v3.3-rc0?download_url=https://github.com/libffi/libffi/archive/v3.3-rc0/libffi-v3.3-rc0.tar.gz",
+         "type": "firmware",
+         "version": "v3.3-rc0"
+      },
+      {
+         "bom-ref": "libgcrypt",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.1+"
+               }
+            }
+         ],
+         "name": "libgcrypt",
+         "purl": "pkg:generic/libgcrypt@1.8.6?download_url=https://gnupg.org/ftp/gcrypt/libgcrypt/libgcrypt-1.8.6.tar.bz2",
+         "type": "firmware",
+         "version": "1.8.6"
+      },
+      {
+         "bom-ref": "libglib2",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.1+"
+               }
+            }
+         ],
+         "name": "libglib2",
+         "purl": "pkg:generic/libglib2@2.56.4?download_url=http://ftp.gnome.org/pub/gnome/sources/glib/2.56/glib-2.56.4.tar.xz",
+         "type": "firmware",
+         "version": "2.56.4"
+      },
+      {
+         "bom-ref": "libgpg-error",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            },
+            {
+               "license": {
+                  "name": " LGPL-2.1+"
+               }
+            }
+         ],
+         "name": "libgpg-error",
+         "purl": "pkg:generic/libgpg-error@1.33?download_url=https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.33.tar.bz2",
+         "type": "firmware",
+         "version": "1.33"
+      },
+      {
+         "bom-ref": "liblockfile",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.0+"
+               }
+            },
+            {
+               "license": {
+                  "name": " GPL-2.0+ (dotlockfile)"
+               }
+            }
+         ],
+         "name": "liblockfile",
+         "purl": "pkg:generic/liblockfile@1.09?download_url=http://snapshot.debian.org/archive/debian/20151026T153523Z/pool/main/libl/liblockfile/liblockfile_1.09.orig.tar.gz",
+         "type": "firmware",
+         "version": "1.09"
+      },
+      {
+         "bom-ref": "liblogging",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "BSD-2-Clause"
+               }
+            }
+         ],
+         "name": "liblogging",
+         "purl": "pkg:generic/liblogging@1.0.6?download_url=http://download.rsyslog.com/liblogging/liblogging-1.0.6.tar.gz",
+         "type": "firmware",
+         "version": "1.0.6"
+      },
+      {
+         "bom-ref": "libmnl",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.1+"
+               }
+            }
+         ],
+         "name": "libmnl",
+         "purl": "pkg:generic/libmnl@1.0.4?download_url=http://netfilter.org/projects/libmnl/files/libmnl-1.0.4.tar.bz2",
+         "type": "firmware",
+         "version": "1.0.4"
+      },
+      {
+         "bom-ref": "libndp",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.1+"
+               }
+            }
+         ],
+         "name": "libndp",
+         "purl": "pkg:generic/libndp@v1.6?download_url=https://github.com/jpirko/libndp/archive/v1.6/libndp-v1.6.tar.gz",
+         "type": "firmware",
+         "version": "v1.6"
+      },
+      {
+         "bom-ref": "libnetfilter_conntrack",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            }
+         ],
+         "name": "libnetfilter_conntrack",
+         "purl": "pkg:generic/libnetfilter_conntrack@1.0.7?download_url=http://www.netfilter.org/projects/libnetfilter_conntrack/files/libnetfilter_conntrack-1.0.7.tar.bz2",
+         "type": "firmware",
+         "version": "1.0.7"
+      },
+      {
+         "bom-ref": "libnetfilter_cthelper",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            }
+         ],
+         "name": "libnetfilter_cthelper",
+         "purl": "pkg:generic/libnetfilter_cthelper@1.0.0?download_url=http://www.netfilter.org/projects/libnetfilter_cthelper/files/libnetfilter_cthelper-1.0.0.tar.bz2",
+         "type": "firmware",
+         "version": "1.0.0"
+      },
+      {
+         "bom-ref": "libnetfilter_cttimeout",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            }
+         ],
+         "name": "libnetfilter_cttimeout",
+         "purl": "pkg:generic/libnetfilter_cttimeout@1.0.0?download_url=http://www.netfilter.org/projects/libnetfilter_cttimeout/files/libnetfilter_cttimeout-1.0.0.tar.bz2",
+         "type": "firmware",
+         "version": "1.0.0"
+      },
+      {
+         "bom-ref": "libnetfilter_queue",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            }
+         ],
+         "name": "libnetfilter_queue",
+         "purl": "pkg:generic/libnetfilter_queue@1.0.3?download_url=http://www.netfilter.org/projects/libnetfilter_queue/files/libnetfilter_queue-1.0.3.tar.bz2",
+         "type": "firmware",
+         "version": "1.0.3"
+      },
+      {
+         "bom-ref": "libnfnetlink",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0"
+               }
+            }
+         ],
+         "name": "libnfnetlink",
+         "purl": "pkg:generic/libnfnetlink@1.0.1?download_url=http://www.netfilter.org/projects/libnfnetlink/files/libnfnetlink-1.0.1.tar.bz2",
+         "type": "firmware",
+         "version": "1.0.1"
+      },
+      {
+         "bom-ref": "libnl",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.1+"
+               }
+            }
+         ],
+         "name": "libnl",
+         "purl": "pkg:generic/libnl@3.4.0?download_url=https://github.com/thom311/libnl/releases/download/libnl3_4_0/libnl-3.4.0.tar.gz",
+         "type": "firmware",
+         "version": "3.4.0"
+      },
+      {
+         "bom-ref": "libopenssl",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "OpenSSL or SSLeay"
+               }
+            }
+         ],
+         "name": "libopenssl",
+         "purl": "pkg:generic/libopenssl@1.1.1i?download_url=https://www.openssl.org/source/openssl-1.1.1i.tar.gz",
+         "type": "firmware",
+         "version": "1.1.1i"
+      },
+      {
+         "bom-ref": "library-diagnostic",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "unknown"
+               }
+            }
+         ],
+         "name": "library-diagnostic",
+         "purl": "pkg:generic/library-diagnostic@V1.0?download_url=ssh://git.bbraun.io/citcom/library-diagnostic.git/library-diagnostic-V1.0.tar.gz",
+         "type": "firmware",
+         "version": "V1.0"
+      },
+      {
+         "bom-ref": "libsysfs",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": " LGPL-2.1+ (library)"
+               }
+            },
+            {
+               "license": {
+                  "name": "GPL-2.0 (utilities)"
+               }
+            }
+         ],
+         "name": "libsysfs",
+         "purl": "pkg:generic/libsysfs@2.1.0?download_url=http://downloads.sourceforge.net/project/linux-diag/sysfsutils/2.1.0/sysfsutils-2.1.0.tar.gz",
+         "type": "firmware",
+         "version": "2.1.0"
+      },
+      {
+         "bom-ref": "libtasn1",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": " LGPL-2.1+ (library)"
+               }
+            },
+            {
+               "license": {
+                  "name": " tools)"
+               }
+            },
+            {
+               "license": {
+                  "name": "GPL-3.0+ (tests"
+               }
+            }
+         ],
+         "name": "libtasn1",
+         "purl": "pkg:generic/libtasn1@4.14?download_url=http://ftpmirror.gnu.org/libtasn1/libtasn1-4.14.tar.gz",
+         "type": "firmware",
+         "version": "4.14"
+      },
+      {
+         "bom-ref": "libxml2",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "MIT"
+               }
+            }
+         ],
+         "name": "libxml2",
+         "purl": "pkg:generic/libxml2@2.9.10?download_url=http://xmlsoft.org/sources/libxml2-2.9.10.tar.gz",
+         "type": "firmware",
+         "version": "2.9.10"
+      },
+      {
+         "bom-ref": "libxslt",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "MIT"
+               }
+            }
+         ],
+         "name": "libxslt",
+         "purl": "pkg:generic/libxslt@1.1.34?download_url=http://xmlsoft.org/sources/libxslt-1.1.34.tar.gz",
+         "type": "firmware",
+         "version": "1.1.34"
+      },
+      {
+         "bom-ref": "libzlib",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "Zlib"
+               }
+            }
+         ],
+         "name": "libzlib",
+         "purl": "pkg:generic/libzlib@1.2.11?download_url=http://www.zlib.net/zlib-1.2.11.tar.xz",
+         "type": "firmware",
+         "version": "1.2.11"
+      },
+      {
+         "bom-ref": "linux",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0"
+               }
+            }
+         ],
+         "name": "linux",
+         "purl": "pkg:generic/linux@custom?download_url=https://cdn.kernel.org/pub/linux/kernel/vcustom.x/linux-custom.tar.xz",
+         "type": "firmware",
+         "version": "custom"
+      },
+      {
+         "bom-ref": "linux-backports",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0"
+               }
+            }
+         ],
+         "name": "linux-backports",
+         "purl": "pkg:generic/linux-backports@9.32.0.13?download_url=https://github.com/LairdCP/wb-package-archive/releases/download/LRD-REL-9.32.0.13/backports-laird-9.32.0.13.tar.bz2",
+         "type": "firmware",
+         "version": "9.32.0.13"
+      },
+      {
+         "bom-ref": "lockfile-progs",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0"
+               }
+            }
+         ],
+         "name": "lockfile-progs",
+         "purl": "pkg:generic/lockfile-progs@0.1.17?download_url=http://snapshot.debian.org/archive/debian/20141023T043132Z/pool/main/l/lockfile-progs/lockfile-progs_0.1.17.tar.gz",
+         "type": "firmware",
+         "version": "0.1.17"
+      },
+      {
+         "bom-ref": "lrd-network-manager",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": " LGPL-2.1+ (libnm)"
+               }
+            },
+            {
+               "license": {
+                  "name": "GPL-2.0+ (app)"
+               }
+            }
+         ],
+         "name": "lrd-network-manager",
+         "purl": "pkg:generic/lrd-network-manager@9.32.0.13?download_url=https://github.com/LairdCP/wb-package-archive/releases/download/LRD-REL-9.32.0.13/lrd-network-manager-src-9.32.0.13.tar.xz",
+         "type": "firmware",
+         "version": "9.32.0.13"
+      },
+      {
+         "bom-ref": "lrd-swupdate-client",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "unknown"
+               }
+            }
+         ],
+         "name": "lrd-swupdate-client",
+         "purl": "pkg:generic/lrd-swupdate-client@local?download_url=package/lrd/externals/lrd-userspace-examples/swclient/lrd-swupdate-client-local.tar.gz",
+         "type": "firmware",
+         "version": "local"
+      },
+      {
+         "bom-ref": "mtd",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0"
+               }
+            }
+         ],
+         "name": "mtd",
+         "purl": "pkg:generic/mtd@2.0.2?download_url=ftp://ftp.infradead.org/pub/mtd-utils/mtd-utils-2.0.2.tar.bz2",
+         "type": "firmware",
+         "version": "2.0.2"
+      },
+      {
+         "bom-ref": "ncurses",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "MIT with advertising clause"
+               }
+            }
+         ],
+         "name": "ncurses",
+         "purl": "pkg:generic/ncurses@6.1?download_url=http://ftpmirror.gnu.org/ncurses/ncurses-6.1.tar.gz",
+         "type": "firmware",
+         "version": "6.1"
+      },
+      {
+         "bom-ref": "nettle",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "Dual GPL-2.0+/LGPL-3.0+"
+               }
+            }
+         ],
+         "name": "nettle",
+         "purl": "pkg:generic/nettle@3.4.1?download_url=http://www.lysator.liu.se/~nisse/archive/nettle-3.4.1.tar.gz",
+         "type": "firmware",
+         "version": "3.4.1"
+      },
+      {
+         "bom-ref": "pcre",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "BSD-3-Clause"
+               }
+            }
+         ],
+         "name": "pcre",
+         "purl": "pkg:generic/pcre@8.44?download_url=https://ftp.pcre.org/pub/pcre/pcre-8.44.tar.bz2",
+         "type": "firmware",
+         "version": "8.44"
+      },
+      {
+         "bom-ref": "python-cheroot",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "BSD-3-Clause"
+               }
+            }
+         ],
+         "name": "python-cheroot",
+         "purl": "pkg:generic/python-cheroot@8.1.0?download_url=https://files.pythonhosted.org/packages/a1/6c/899c7de9323e440f7eda28fead4a84bd0ae5a557e6ebf8f12270cc502043/cheroot-8.1.0.tar.gz",
+         "type": "firmware",
+         "version": "8.1.0"
+      },
+      {
+         "bom-ref": "python-cherrypy",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "BSD-3-Clause"
+               }
+            }
+         ],
+         "name": "python-cherrypy",
+         "purl": "pkg:generic/python-cherrypy@18.4.0?download_url=https://pypi.python.org/packages/90/9f/c45f5a6508764369971c04de098359c5b8e2ed4850b8b536ee02f3f80fff/CherryPy-18.4.0.tar.gz",
+         "type": "firmware",
+         "version": "18.4.0"
+      },
+      {
+         "bom-ref": "python-lxml-bbraun",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "BSD-3-Clause"
+               }
+            },
+            {
+               "license": {
+                  "name": " Others"
+               }
+            }
+         ],
+         "name": "python-lxml-bbraun",
+         "purl": "pkg:generic/python-lxml-bbraun@4.6.2?download_url=https://files.pythonhosted.org/packages/db/f7/43fecb94d66959c1e23aa53d6161231dca0e93ec500224cf31b3c4073e37/lxml-4.6.2.tar.gz",
+         "type": "firmware",
+         "version": "4.6.2"
+      },
+      {
+         "bom-ref": "python-more-itertools",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "MIT"
+               }
+            }
+         ],
+         "name": "python-more-itertools",
+         "purl": "pkg:generic/python-more-itertools@4.0.1?download_url=https://pypi.python.org/packages/a2/28/d02c111c230a769a32fd97e9f6d42bfb0136da381f356b945db38367b3d3/more-itertools-4.0.1.tar.gz",
+         "type": "firmware",
+         "version": "4.0.1"
+      },
+      {
+         "bom-ref": "python-networkmanager",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "Zlib"
+               }
+            }
+         ],
+         "name": "python-networkmanager",
+         "purl": "pkg:generic/python-networkmanager@2.1?download_url=https://files.pythonhosted.org/packages/73/ec/2cc46290cedc99f59df3633d428dfa91d95946ca49af96fdb53514ee195f/python-networkmanager-2.1.tar.gz",
+         "type": "firmware",
+         "version": "2.1"
+      },
+      {
+         "bom-ref": "python-portend",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "MIT"
+               }
+            }
+         ],
+         "name": "python-portend",
+         "purl": "pkg:generic/python-portend@2.5?download_url=https://files.pythonhosted.org/packages/2c/59/948666fc2455ae471efd40cb2a9a990f5f6f2354a9a6b228e29b9fb4a307/portend-2.5.tar.gz",
+         "type": "firmware",
+         "version": "2.5"
+      },
+      {
+         "bom-ref": "python-six",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "MIT"
+               }
+            }
+         ],
+         "name": "python-six",
+         "purl": "pkg:generic/python-six@1.12.0?download_url=https://files.pythonhosted.org/packages/dd/bf/4138e7bfb757de47d1f4b6994648ec67a51efe58fa907c1e11e350cddfca/six-1.12.0.tar.gz",
+         "type": "firmware",
+         "version": "1.12.0"
+      },
+      {
+         "bom-ref": "python-systemd",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.1"
+               }
+            }
+         ],
+         "name": "python-systemd",
+         "purl": "pkg:generic/python-systemd@234?download_url=https://pypi.python.org/packages/e8/a8/00ba0f605837a8f69523e6c3a4fb14675a6430c163f836540129c50b3aef/systemd-python-234.tar.gz",
+         "type": "firmware",
+         "version": "234"
+      },
+      {
+         "bom-ref": "python-zc-lockfile",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "ZPL-2.1"
+               }
+            }
+         ],
+         "name": "python-zc-lockfile",
+         "purl": "pkg:generic/python-zc-lockfile@2?download_url=https://files.pythonhosted.org/packages/11/98/f21922d501ab29d62665e7460c94f5ed485fd9d8348c126697947643a881/zc.lockfile-2.0.tar.gz",
+         "type": "firmware",
+         "version": "2"
+      },
+      {
+         "bom-ref": "python3",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "Python-2.0"
+               }
+            },
+            {
+               "license": {
+                  "name": " others"
+               }
+            }
+         ],
+         "name": "python3",
+         "purl": "pkg:generic/python3@3.7.10?download_url=https://python.org/ftp/python/3.7.10/Python-3.7.10.tar.xz",
+         "type": "firmware",
+         "version": "3.7.10"
+      },
+      {
+         "bom-ref": "python3-gobject",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.1+"
+               }
+            }
+         ],
+         "name": "python3-gobject",
+         "purl": "pkg:generic/python3-gobject@3.28.3?download_url=http://ftp.gnome.org/pub/gnome/sources/pygobject/3.28/pygobject-3.28.3.tar.xz",
+         "type": "firmware",
+         "version": "3.28.3"
+      },
+      {
+         "bom-ref": "readline",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-3.0+"
+               }
+            }
+         ],
+         "name": "readline",
+         "purl": "pkg:generic/readline@8?download_url=http://ftpmirror.gnu.org/readline/readline-8.0.tar.gz",
+         "type": "firmware",
+         "version": "8"
+      },
+      {
+         "bom-ref": "serialcan",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            }
+         ],
+         "name": "serialcan",
+         "purl": "pkg:generic/serialcan@local?download_url=/home/jims/bbraun-7.3.0.49/wb_bbraun-external/package/serialcan/src/serialcan-local.tar.gz",
+         "type": "firmware",
+         "version": "local"
+      },
+      {
+         "bom-ref": "stress-ng",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            }
+         ],
+         "name": "stress-ng",
+         "purl": "pkg:generic/stress-ng@0.09.47?download_url=http://kernel.ubuntu.com/~cking/tarballs/stress-ng/stress-ng-0.09.47.tar.xz",
+         "type": "firmware",
+         "version": "0.09.47"
+      },
+      {
+         "bom-ref": "swupdate",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": " LGPL-2.1+"
+               }
+            },
+            {
+               "license": {
+                  "name": " MIT"
+               }
+            },
+            {
+               "license": {
+                  "name": "GPL-2.0+ with OpenSSL exception"
+               }
+            }
+         ],
+         "name": "swupdate",
+         "purl": "pkg:generic/swupdate@2019.11?download_url=https://github.com/sbabic/swupdate/archive/2019.11/swupdate-2019.11.tar.gz",
+         "type": "firmware",
+         "version": "2019.11"
+      },
+      {
+         "bom-ref": "systemd",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "LGPL-2.1+"
+               }
+            },
+            {
+               "license": {
+                  "name": " BSD-3-Clause (tools/chromiumos)"
+               }
+            },
+            {
+               "license": {
+                  "name": " GPL-2.0+ (udev)"
+               }
+            },
+            {
+               "license": {
+                  "name": " Public Domain (few source files"
+               }
+            },
+            {
+               "license": {
+                  "name": " see README)"
+               }
+            }
+         ],
+         "name": "systemd",
+         "purl": "pkg:generic/systemd@244.5?download_url=https://github.com/systemd/systemd-stable/archive/v244.5/systemd-244.5.tar.gz",
+         "type": "firmware",
+         "version": "244.5"
+      },
+      {
+         "bom-ref": "toolchain-external-laird-arm",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "unknown"
+               }
+            }
+         ],
+         "name": "toolchain-external-laird-arm",
+         "purl": "pkg:generic/toolchain-external-laird-arm@7.0.0.430?download_url=https://github.com/LairdCP/wb-package-archive/releases/download/LRD-REL-7.0.0.430/som60_toolchain-laird-7.0.0.430.tar.gz",
+         "type": "firmware",
+         "version": "7.0.0.430"
+      },
+      {
+         "bom-ref": "tzdata",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "Public domain"
+               }
+            }
+         ],
+         "name": "tzdata",
+         "purl": "pkg:generic/tzdata@2018e?download_url=http://www.iana.org/time-zones/repository/releases/tzdata2018e.tar.gz",
+         "type": "firmware",
+         "version": "2018e"
+      },
+      {
+         "bom-ref": "uboot",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            }
+         ],
+         "name": "uboot",
+         "purl": "pkg:generic/uboot@custom?download_url=ftp://ftp.denx.de/pub/u-boot/u-boot-custom.tar.bz2",
+         "type": "firmware",
+         "version": "custom"
+      },
+      {
+         "bom-ref": "uboot-tools",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            }
+         ],
+         "name": "uboot-tools",
+         "purl": "pkg:generic/uboot-tools@custom?download_url=ftp://ftp.denx.de/pub/u-boot/u-boot-custom.tar.bz2",
+         "type": "firmware",
+         "version": "custom"
+      },
+      {
+         "bom-ref": "unzip",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "Info-ZIP"
+               }
+            }
+         ],
+         "name": "unzip",
+         "purl": "pkg:generic/unzip@60?download_url=ftp://ftp.info-zip.org/pub/infozip/src/unzip60.tgz",
+         "type": "firmware",
+         "version": "60"
+      },
+      {
+         "bom-ref": "util-linux",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0+"
+               }
+            },
+            {
+               "license": {
+                  "name": " BSD-3-Clause (libuuid)"
+               }
+            },
+            {
+               "license": {
+                  "name": " BSD-4-Clause"
+               }
+            },
+            {
+               "license": {
+                  "name": " ISC (rfkill)"
+               }
+            },
+            {
+               "license": {
+                  "name": " LGPL-2.1+ (libblkid"
+               }
+            },
+            {
+               "license": {
+                  "name": " libfdisk"
+               }
+            },
+            {
+               "license": {
+                  "name": " libmount)"
+               }
+            }
+         ],
+         "name": "util-linux",
+         "purl": "pkg:generic/util-linux@2.35.1?download_url=https://cdn.kernel.org/pub/linux/utils/util-linux/v2.35/util-linux-2.35.1.tar.xz",
+         "type": "firmware",
+         "version": "2.35.1"
+      },
+      {
+         "bom-ref": "weblcm-bbraun",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "unknown"
+               }
+            }
+         ],
+         "name": "weblcm-bbraun",
+         "purl": "pkg:generic/weblcm-bbraun@V0.26.0_space1?download_url=ssh://git%40git.bbraun.io/citcom/weblcm-python.git/weblcm-bbraun-V0.26.0_space1.tar.gz",
+         "type": "firmware",
+         "version": "V0.26.0_space1"
+      },
+      {
+         "bom-ref": "weblcm-custom-css",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "unknown"
+               }
+            }
+         ],
+         "name": "weblcm-custom-css",
+         "purl": "pkg:generic/weblcm-custom-css@V0.7.0_space1?download_url=ssh://git%40git.bbraun.io/citcom/weblcm-custom-css.git/weblcm-custom-css-V0.7.0_space1.tar.gz",
+         "type": "firmware",
+         "version": "V0.7.0_space1"
+      },
+      {
+         "bom-ref": "wireless_tools",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "GPL-2.0"
+               }
+            }
+         ],
+         "name": "wireless_tools",
+         "purl": "pkg:generic/wireless_tools@30.pre9?download_url=https://hewlettpackard.github.io/wireless-tools/wireless_tools.30.pre9.tar.gz",
+         "type": "firmware",
+         "version": "30.pre9"
+      },
+      {
+         "bom-ref": "yaml-cpp05",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "name": "unknown"
+               }
+            }
+         ],
+         "name": "yaml-cpp05",
+         "purl": "pkg:generic/yaml-cpp05@0.5.3?download_url=https://github.com/jbeder/yaml-cpp/archive/release-0.5.3/yaml-cpp05-0.5.3.tar.gz",
+         "type": "firmware",
+         "version": "0.5.3"
+      },
+      {
+         "bom-ref": "zip",
+         "cpe": "not found",
+         "licenses": [
+            {
+               "license": {
+                  "id": "Info-ZIP"
+               }
+            }
+         ],
+         "name": "zip",
+         "purl": "pkg:generic/zip@30?download_url=ftp://ftp.info-zip.org/pub/infozip/src/zip30.tgz",
+         "type": "firmware",
+         "version": "30"
+      }
+   ],
+   "dependencies": [
+      {
+         "dependsOn": [
+            "adaptive_ww-binaries",
+            "attr",
+            "binaryheaderfile",
+            "boost",
+            "busybox",
+            "ca-certificates",
+            "can-utils",
+            "chrony",
+            "comdeviceapps",
+            "conntrack-tools",
+            "cryptodev-linux",
+            "dbus",
+            "dbus-glib",
+            "dbus-python",
+            "dnsmasq",
+            "dropbear",
+            "ethtool",
+            "expat",
+            "fallback-detection",
+            "fscryptctl",
+            "gmp",
+            "gnutls",
+            "gobject-introspection",
+            "iproute2",
+            "iptables",
+            "iw",
+            "json-c",
+            "keyutils",
+            "kmod",
+            "less",
+            "libcap",
+            "libconfig",
+            "libcurl",
+            "libestr",
+            "libfastjson",
+            "libffi",
+            "libgcrypt",
+            "libglib2",
+            "libgpg-error",
+            "liblockfile",
+            "liblogging",
+            "libmnl",
+            "libndp",
+            "libnetfilter_conntrack",
+            "libnetfilter_cthelper",
+            "libnetfilter_cttimeout",
+            "libnetfilter_queue",
+            "libnfnetlink",
+            "libnl",
+            "libopenssl",
+            "library-diagnostic",
+            "libsysfs",
+            "libtasn1",
+            "libxml2",
+            "libxslt",
+            "libzlib",
+            "linux",
+            "linux-backports",
+            "lockfile-progs",
+            "lrd-network-manager",
+            "lrd-swupdate-client",
+            "mtd",
+            "ncurses",
+            "nettle",
+            "pcre",
+            "python-cheroot",
+            "python-cherrypy",
+            "python-lxml-bbraun",
+            "python-more-itertools",
+            "python-networkmanager",
+            "python-portend",
+            "python-six",
+            "python-systemd",
+            "python-zc-lockfile",
+            "python3",
+            "python3-gobject",
+            "readline",
+            "serialcan",
+            "stress-ng",
+            "swupdate",
+            "systemd",
+            "toolchain-external-laird-arm",
+            "tzdata",
+            "uboot",
+            "uboot-tools",
+            "unzip",
+            "util-linux",
+            "weblcm-bbraun",
+            "weblcm-custom-css",
+            "wireless_tools",
+            "yaml-cpp05",
+            "zip"
+         ],
+         "ref": "aabf8852-449b-43bb-9116-870d1ff0a869"
+      },
+      {
+         "ref": "adaptive_ww-binaries"
+      },
+      {
+         "ref": "attr"
+      },
+      {
+         "ref": "binaryheaderfile"
+      },
+      {
+         "ref": "boost"
+      },
+      {
+         "ref": "busybox"
+      },
+      {
+         "ref": "ca-certificates"
+      },
+      {
+         "ref": "can-utils"
+      },
+      {
+         "ref": "chrony"
+      },
+      {
+         "ref": "comdeviceapps"
+      },
+      {
+         "ref": "conntrack-tools"
+      },
+      {
+         "ref": "cryptodev-linux"
+      },
+      {
+         "ref": "dbus"
+      },
+      {
+         "ref": "dbus-glib"
+      },
+      {
+         "ref": "dbus-python"
+      },
+      {
+         "ref": "dnsmasq"
+      },
+      {
+         "ref": "dropbear"
+      },
+      {
+         "ref": "ethtool"
+      },
+      {
+         "ref": "expat"
+      },
+      {
+         "ref": "fallback-detection"
+      },
+      {
+         "ref": "fscryptctl"
+      },
+      {
+         "ref": "gmp"
+      },
+      {
+         "ref": "gnutls"
+      },
+      {
+         "ref": "gobject-introspection"
+      },
+      {
+         "ref": "iproute2"
+      },
+      {
+         "ref": "iptables"
+      },
+      {
+         "ref": "iw"
+      },
+      {
+         "ref": "json-c"
+      },
+      {
+         "ref": "keyutils"
+      },
+      {
+         "ref": "kmod"
+      },
+      {
+         "ref": "less"
+      },
+      {
+         "ref": "libcap"
+      },
+      {
+         "ref": "libconfig"
+      },
+      {
+         "ref": "libcurl"
+      },
+      {
+         "ref": "libestr"
+      },
+      {
+         "ref": "libfastjson"
+      },
+      {
+         "ref": "libffi"
+      },
+      {
+         "ref": "libgcrypt"
+      },
+      {
+         "ref": "libglib2"
+      },
+      {
+         "ref": "libgpg-error"
+      },
+      {
+         "ref": "liblockfile"
+      },
+      {
+         "ref": "liblogging"
+      },
+      {
+         "ref": "libmnl"
+      },
+      {
+         "ref": "libndp"
+      },
+      {
+         "ref": "libnetfilter_conntrack"
+      },
+      {
+         "ref": "libnetfilter_cthelper"
+      },
+      {
+         "ref": "libnetfilter_cttimeout"
+      },
+      {
+         "ref": "libnetfilter_queue"
+      },
+      {
+         "ref": "libnfnetlink"
+      },
+      {
+         "ref": "libnl"
+      },
+      {
+         "ref": "libopenssl"
+      },
+      {
+         "ref": "library-diagnostic"
+      },
+      {
+         "ref": "libsysfs"
+      },
+      {
+         "ref": "libtasn1"
+      },
+      {
+         "ref": "libxml2"
+      },
+      {
+         "ref": "libxslt"
+      },
+      {
+         "ref": "libzlib"
+      },
+      {
+         "ref": "linux"
+      },
+      {
+         "ref": "linux-backports"
+      },
+      {
+         "ref": "lockfile-progs"
+      },
+      {
+         "ref": "lrd-network-manager"
+      },
+      {
+         "ref": "lrd-swupdate-client"
+      },
+      {
+         "ref": "mtd"
+      },
+      {
+         "ref": "ncurses"
+      },
+      {
+         "ref": "nettle"
+      },
+      {
+         "ref": "pcre"
+      },
+      {
+         "ref": "python-cheroot"
+      },
+      {
+         "ref": "python-cherrypy"
+      },
+      {
+         "ref": "python-lxml-bbraun"
+      },
+      {
+         "ref": "python-more-itertools"
+      },
+      {
+         "ref": "python-networkmanager"
+      },
+      {
+         "ref": "python-portend"
+      },
+      {
+         "ref": "python-six"
+      },
+      {
+         "ref": "python-systemd"
+      },
+      {
+         "ref": "python-zc-lockfile"
+      },
+      {
+         "ref": "python3"
+      },
+      {
+         "ref": "python3-gobject"
+      },
+      {
+         "ref": "readline"
+      },
+      {
+         "ref": "serialcan"
+      },
+      {
+         "ref": "stress-ng"
+      },
+      {
+         "ref": "swupdate"
+      },
+      {
+         "ref": "systemd"
+      },
+      {
+         "ref": "toolchain-external-laird-arm"
+      },
+      {
+         "ref": "tzdata"
+      },
+      {
+         "ref": "uboot"
+      },
+      {
+         "ref": "uboot-tools"
+      },
+      {
+         "ref": "unzip"
+      },
+      {
+         "ref": "util-linux"
+      },
+      {
+         "ref": "weblcm-bbraun"
+      },
+      {
+         "ref": "weblcm-custom-css"
+      },
+      {
+         "ref": "wireless_tools"
+      },
+      {
+         "ref": "yaml-cpp05"
+      },
+      {
+         "ref": "zip"
+      }
+   ],
+   "metadata": {
+      "component": {
+         "bom-ref": "aabf8852-449b-43bb-9116-870d1ff0a869",
+         "name": "My Project",
+         "type": "library",
+         "version": "1.2.3.4"
+      },
+      "manufacture": {
+         "name": "company name"
+      },
+      "timestamp": "2024-05-02T15:43:14.786087+00:00",
+      "tools": [
+         {
+            "externalReferences": [
+               {
+                  "type": "build-system",
+                  "url": "https://github.com/CycloneDX/cyclonedx-python-lib/actions"
+               },
+               {
+                  "type": "distribution",
+                  "url": "https://pypi.org/project/cyclonedx-python-lib/"
+               },
+               {
+                  "type": "documentation",
+                  "url": "https://cyclonedx.github.io/cyclonedx-python-lib/"
+               },
+               {
+                  "type": "issue-tracker",
+                  "url": "https://github.com/CycloneDX/cyclonedx-python-lib/issues"
+               },
+               {
+                  "type": "license",
+                  "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/LICENSE"
+               },
+               {
+                  "type": "release-notes",
+                  "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/CHANGELOG.md"
+               },
+               {
+                  "type": "vcs",
+                  "url": "https://github.com/CycloneDX/cyclonedx-python-lib"
+               },
+               {
+                  "type": "website",
+                  "url": "https://cyclonedx.org"
+               }
+            ],
+            "name": "cyclonedx-python-lib",
+            "vendor": "CycloneDX",
+            "version": "4.2.3"
+         }
+      ]
+   },
+   "serialNumber": "urn:uuid:2e71b4b3-50f7-4773-a791-cbabfd3a5cd8",
+   "version": 1,
+   "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
+   "bomFormat": "CycloneDX",
+   "specVersion": "1.4"
+}
