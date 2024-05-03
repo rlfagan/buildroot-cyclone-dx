@@ -36,7 +36,7 @@ From the Buildroot environment, run the following command to generate cpe.json. 
 
 bash
 ```
-make show-info -f cpe.json
+make show-info > cpe.json
 ```
 Step 3: Create the CycloneDX File
 
